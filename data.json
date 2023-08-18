@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "id": "3b95900d-13cd-465c-b454-b9915bb5083d",
+      "fullName": "John Doe",
+      "email": "john@mail.com",
+      "country": "India",
+      "gitHubLink": "https://github.com/john-doe"
+    },
+    {
+      "id": "5f701d94-1e75-4ac5-831b-87e2b3e43259",
+      "fullName": "Jane Smith",
+      "email": "jane@mail.com",
+      "country": "United States",
+      "gitHubLink": "https://github.com/jane-smith"
+    },
+    {
+      "id": "b6c65169-3ad0-4820-b0c9-2e5646de14e7",
+      "fullName": "Maria Rodriguez",
+      "email": "maria@mail.com",
+      "country": "Spain",
+      "gitHubLink": "https://github.com/maria-rodriguez"
+    },
+    {
+      "id": "8734cc38-bad9-4862-a589-f24b3d21d44d",
+      "fullName": "Allen Green",
+      "email": "allen@mail.com",
+      "country": "India",
+      "gitHubLink": "https://github.com/allen-green"
+    },
+    {
+      "id": "e0e0101a-0289-41e1-9b27-6899f10c4595",
+      "fullName": "Smith Wood",
+      "email": "smith@mail.com",
+      "country": "China",
+      "gitHubLink": "https://github.com/smith-wood"
+    },
+    {
+      "id": "eeed681f-0640-4dd9-b2d6-4688d2705bfb",
+      "fullName": "Clark Kent",
+      "email": "clark@mail.com",
+      "country": "UAE",
+      "gitHubLink": "https://github.com/clark-kent"
+    },
+    {
+      "id": "9461e69f-402b-40bd-af4d-1c763d213eb6",
+      "fullName": "Madhumitha Tanikonda",
+      "email": "madhumitha@mail.com",
+      "country": "India",
+      "gitHubLink": "madhumitha@github.com"
+    },
+    {
+      "id": "c5bb4266-05a6-4ac1-860f-f84651118ead",
+      "fullName": "Hannah Len",
+      "email": "hannahl@mail.com",
+      "country": "Mexico",
+      "gitHubLink": "hannah@github.com"
+    },
+    {
+      "id": "ab40f9da-b58f-4cef-888e-133cc6d9a39f",
+      "fullName": "Mary Martin",
+      "email": "mary@gmail.com",
+      "country": "Denmark",
+      "gitHubLink": "mary@github.com"
+    },
+    {
+      "id": "38ace74e-fca2-4c94-b44b-55e806a29ddd",
+      "fullName": "Mark Smith",
+      "email": "mark@outlook.com",
+      "country": "Canada",
+      "gitHubLink": "marks@github.com"
+    },
+    {
+      "id": "18d7bf57-ce2c-4aad-9082-eef3a90493aa",
+      "fullName": "Alfred Greg",
+      "email": "alf@mail.com",
+      "country": "Germany",
+      "gitHubLink": "alfredgreg@github.com"
+    },
+    {
+      "id": "d7ab7932-2e16-41bc-ae6a-f64004e123b0",
+      "fullName": "abcd",
+      "email": "efgh",
+      "country": "ijkl",
+      "gitHubLink": "mnop"
+    },
+    {
+      "id": "f2954a83-96f0-458f-aa64-87504202556e",
+      "fullName": "ssdd",
+      "email": "ddd",
+      "country": "sss",
+      "gitHubLink": "aaa"
+    }
+  ]
+}
